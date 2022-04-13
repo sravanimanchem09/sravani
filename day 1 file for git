@@ -1,0 +1,79 @@
+   
+      Java + Cloud Amazon Web Service
+
+
+      Stackroute Tools:
+
+      1. Slack
+
+      2. Gitlab /  Github - https://gitlab.stackroute.in/
+   
+      3. Stackbooks - Recored Session -  https://stackbooks.stackroute.in/
+
+      4. Hobbes - Automated Evaluation Tool for Assignments - https://hobbes.stackroute.in/#/ 
+
+      5. Vlabs - Remote Virtual Machine - https://vlabs.stackroute.in/ -  Ubuntu OS
+  
+      6. StandUp - Challanges / Issues / Complaints
+
+
+     --------------------------------------------------------------------------------------------------------------------------------
+
+
+       Software Installation : 
+       
+       Git :    
+             Project
+
+             Abhinaya        Dinesh       Kiran
+         
+               10             30            20    -  60 Week
+
+             
+            Version Control System   -   Git   
+             
+            Track and Manages the changes to Software Code over period of time
+
+
+        
+            Local Repo - Sathish Project - 1 file       --->  Push Code to Remote Respository (https://www.github.com/gsatkani)  
+
+         
+             Global SetUp: 
+             ------------
+             git config --global user.email gsatkani@gmail.com
+             git config --global user.name gsatkani 
+
+             git init
+             git status -  red color
+             git add .  ( dot represents Current Working Directory) 
+             git status -  Green color 
+
+             Location of Remote Repository:
+             -----------------------------
+             git remote add origin <url> 
+
+             git remote add origin https://github.com/gsatkani/wipro-third-project.git
+
+             Commit Changes:
+             ---------------  
+             git commit -m "My First Commit - Wecome to Git"
+ 
+ 
+             Push Code to Remote Repository:
+             -------------------------------
+             git push -u origin master 
+
+
+
+             https://github.com/gsatkani/wipro-third-project.git
+
+
+
+
+
+
+
+
+
+

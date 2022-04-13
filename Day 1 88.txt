@@ -1,0 +1,96 @@
+ Day 1
+
+      Software Installation: 
+             1. Git
+             2. Github Account     
+
+      Git:  Version Control System 
+            
+            Track and Manage the source code in git 
+
+       Push Code from Local Repo  --> Remote Repo(https://github.com/gsatkani/demo-day1-88-source-code.git) 
+
+       1.git init   /  git status
+       2.git add .  /  git status
+       
+       3.git remote add origin https://github.com/gsatkani/demo-day1-88-source-code.git
+
+       4.git commit -m "login module completed"   (-m --> Message)
+       
+       5.git push -u origin master  (-u -> upstream)
+ 
+       Any Error In Uploading:  delete .git folder /  create new repo in github 
+        ----------------------------------------------------------------------
+       Project Manager  --   Orginal Source Code
+      
+       Copy of Source Code -  Share it Team Memebrs
+      
+       Forking Project:  A fork is a copy of a repository.
+       ----------------
+
+       Dev 1           Dev 2            Dev 3
+    Github:  Copy 1            Copy             Copy
+
+
+      Download code from remote --> Local Machine
+
+      Clone a Project: inside WiproProject Folder
+      -----------------
+      git clone https://github.com/gsatkani/demo-day1-88-source-code.git    
+      
+      cd demo-day1-88-source-code
+      git add .
+      git commit -m "added new file"
+      git push  
+
+      Any Changes Made  by diiferent Developers: need to pull changes
+
+       git pull
+       git push
+   
+        
+      
+      Java Fundamental Programs:
+
+       1. Variables
+       2. Datatypes
+       3. Operators
+       4. Conditional Statements
+       5. Looping Statements
+       6. Arrays
+       7. String  
+
+      15 Standard Programs
+
+
+      Create Quick Start Maven Project (Software Project Management Tool (Project Structure))
+
+      /  Java Project
+
+      1.Odd or Even
+      2.Leap Year or not
+      3.Check Number is positive / negative / zero
+      4.Greatest among two numbers /  three numbers
+      5. Check Character -  Upper Case /  Lower Case
+      6. Swap the two numbers  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          
