@@ -1,0 +1,21 @@
+how to add files to repo from local(git)?
+step :1
+create repo
+step :2
+create a new folder on desktop name it as (xyz)
+go into the folder right click  on git bash open it
+step :3
+commands on the gitbash
+git init - initialization of git on the folder
+git status -check whether files are uploaded or not
+git add . -files will upload to it 
+git status
+git remote add origin <url of the repo>
+git commit -m "any text"           -commiting the code to the repo and indicate with text you written
+git push -u origin master          -uploaded to github after entering the push command
+
+Global SetUp: 
+             ------------
+             git config --global user.email sravanimanchem09@gmail.com
+             git config --global user.name sravanimanchem09
+
